@@ -39,7 +39,7 @@ published: true
 
 ### 1. 初期画面でのセットアップ（画像の読み込みと設定）
 
-![初期設定画面のスクリーンショット](images/local-croquis-timer-01_image.png)
+![初期設定画面のスクリーンショット](/images/local-croquis-timer-01_image.png)
 
 使い方はとても簡単です。本アプリは以下の2種類の方法でご利用いただけます。
 
@@ -58,7 +58,7 @@ published: true
 
 ### 2. クロッキー実行中の画面（ノイズレスUIと操作性）
 
-![タイマー実行中のスクリーンショット](images/local-croquis-timer-02_image.png)
+![タイマー実行中のスクリーンショット](/images/local-croquis-timer-02_image.png)
 
 練習中は、画面右上に半透明のタイマーが常駐します。
 画面の下部や端を余計なUIで隠さないため、描くことだけに集中できる **ノイズレスな環境** を実現しています。
